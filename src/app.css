@@ -1,0 +1,16 @@
+:root {
+  --bg-color: #1a120b;
+  --color-one: #3c2a21;
+  --color-two: #d5cea3;
+  --color-three: #e5e5cb;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-color);
+}
